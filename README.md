@@ -1,2 +1,2 @@
-# JavascriptTopics
+# Javascript Topics
 Javascript Topics
